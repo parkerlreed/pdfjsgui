@@ -31,6 +31,6 @@ cp -R build/generic/ ~/bin/
 
 ========
 
-Then just replace the URL in the pdfjsgui script with whatever path your files reside at.
+Then just replace the URL in the pdfjs script with whatever path your files reside at.
 
 file:///home/parker/bin/generic/web/viewer.html
