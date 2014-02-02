@@ -3,6 +3,10 @@ pdfjsgui
 
 A small python script to load pdf.js as it's own application
 
+Found the example python here. http://ardoris.wordpress.com/2009/04/26/a-browser-in-14-lines-using-python-and-webkit/
+
+It works decently for now but the program does not exit upon closing the GUI.
+
 ========
 
 Requires python-webkit and nodejs for compiling pdf.js
